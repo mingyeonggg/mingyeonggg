@@ -1,14 +1,9 @@
-# Hi, I'm @mingyeonggg (Mingyeong Kim) 
+☀️
+
+### Hi, I'm @mingyeonggg (Mingyeong Kim) 
 ITM Student at SeoulTech
 
----
 
-## 💼 Tech Stack
+📞 Contact Me: min23@g.seoultech.ac.kr
 
-- 💻 **Languages**: Java, C, Python
-
----
-
-## 📞 Contact Me
-
-- 📧 **Email**: min23@g.seoultech.ac.kr
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌳
